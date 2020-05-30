@@ -1,4 +1,4 @@
-unction User(name, email) {
+function User(name, email) {
     this.name = name;
     this.email = email;
 }
